@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Port_Scanner_TCP.iml" filepath="$PROJECT_DIR$/.idea/Port_Scanner_TCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Port_Scanner.iml" filepath="$PROJECT_DIR$/.idea/Port_Scanner.iml" />
     </modules>
   </component>
 </project>
